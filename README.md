@@ -8,7 +8,7 @@
 
 ### To make the distinction between a ***growth mindset*** and a ***fixed mindset*** clearer, we have provided this table with growth mindset examples, and fixed mindset examples
 
-GROWTH MINDSET :brain:	:+1: | FIXED MINDSET :man_facepalming: :-1:
+GROWTH MINDSET :brain::+1: | FIXED MINDSET :man_facepalming::-1:
 ------------ | -------------
 Intelligence can be developed | Intelligence is static	
 Persists even when it’s hard | Gives up easily	
