@@ -1,4 +1,4 @@
-# Growth Mindset
+# Growth Mindset :muscle:	:brain:	
 ### How you can benefit from a growth mindset
 ##### The growth mindset can open pathways to more creativity and possibility, and enable the setting of higher goals and more achievement.
 ### how to keep yourself in a growth mindset
@@ -6,7 +6,9 @@
 ##### 2. Never Give up
 ##### 3. Remember from where did you start
 
-GROWTH MINDSET | FIXED MINDSET
+### To make the distinction between a ***growth mindset*** and a ***fixed mindset*** clearer, we have provided this table with growth mindset examples, and fixed mindset examples
+
+GROWTH MINDSET :brain:	:+1: | FIXED MINDSET :man_facepalming:	:-1:
 ------------ | -------------
 Intelligence can be developed | Intelligence is static	
 Persists even when it’s hard | Gives up easily	
