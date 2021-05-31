@@ -17,5 +17,4 @@ Failure is an opportunity to grow | Failure is the limit of my abilities
 
 
 
-#### Hello, I’m ***Nashat Alzaatreh***, and I graduated from the University of Jordan as a civil engineer. After graduation I had training as a site engineer, and then I worked as Customer support agent for two years, and I didn’t feel there was an opportunity to grow or advance further in that company so I decided a change would best for me. I believe this course will help me to achieve my goals and I will be accomplished coder and I enjoy using my skills to contribute to the exciting technological advances that happen every day. My computer operating system is Windows 7 Ultimate
-https://github.com/NashatAlzaatreh
+
