@@ -15,3 +15,19 @@
 #### 3. Download and compile the source code.
 
 #### IF you wants to download git for windows press [here](http://git-scm.com/download/win)
+
+
+
+### Package Manager
+##### You can try installing Git via your distribution’s inherent package management tool.
+
+For Fedora:
+
+```md
+$ sudo yum install git
+```
+For Ubuntu:
+
+```md
+$ sudo apt-get install git
+```
