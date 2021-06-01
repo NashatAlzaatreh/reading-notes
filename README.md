@@ -7,8 +7,7 @@
   
    - [2.2 Fixed Minedset & Growth Mindset](https://nashatalzaatreh.github.io/reading-notes/Growth#to-make-the-distinction-between-a-growth-mindset-and-a-fixed-mindset-clearer-we-have-provided-this-table-with-growth-mindset-examples-and-fixed-mindset-examples)
 
-
-  - [3. Markdown Language](https://nashatalzaatreh.github.io/reading-notes/Markdown)
+- [3. Markdown Language](https://nashatalzaatreh.github.io/reading-notes/Markdown)
     - [3.1 What is Markdown?](https://nashatalzaatreh.github.io/reading-notes/Markdown#what-is-markdown)
     - [3.2 Basic Markdown Formatting](https://nashatalzaatreh.github.io/reading-notes/Markdown#basic-markdown-formatting)
 
