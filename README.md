@@ -15,6 +15,9 @@ Number | Title
 5.2| [Anatomy of an HTML document](https://nashatalzaatreh.github.io/reading-notes/Read03#anatomy-of-an-html-document)
 5.3| [Semantics](https://nashatalzaatreh.github.io/reading-notes/Read03#semantics)
 5.4| [wireframing](https://nashatalzaatreh.github.io/reading-notes/Read03#an-introduction-to-wireframing)
+6.0| [JavaScript](https://nashatalzaatreh.github.io/reading-notes/Read04)
+6.1| [JavaScript Variables](https://nashatalzaatreh.github.io/reading-notes/Read04#javascript-variables)
+6.2| [JavaScript Identifiers](https://nashatalzaatreh.github.io/reading-notes/Read04#javascript-identifiers)
 
 
 
