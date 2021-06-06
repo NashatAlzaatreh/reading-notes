@@ -14,7 +14,7 @@ Intelligence can be developed | Intelligence is static
 Persists even when it’s hard | Gives up easily	
 Failure is an opportunity to grow | Failure is the limit of my abilities
 
-#### ![Choose your way](https://i2.wp.com/atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png?resize=640%2C800&ssl=1)
+ ![Choose your way](https://i2.wp.com/atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png)
 
 
 ## One of the most growth mindsets you could know 

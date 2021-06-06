@@ -18,6 +18,13 @@ Number | Title
 6.0| [JavaScript](https://nashatalzaatreh.github.io/reading-notes/Read04)
 6.1| [JavaScript Variables](https://nashatalzaatreh.github.io/reading-notes/Read04#javascript-variables)
 6.2| [JavaScript Identifiers](https://nashatalzaatreh.github.io/reading-notes/Read04#javascript-identifiers)
+7.0| [Expressions and Operators and Loops](https://nashatalzaatreh.github.io/reading-notes/Read05)
+7.1 | [Operators](https://nashatalzaatreh.github.io/reading-notes/Read05#operators)
+7.2| [Expressions](https://nashatalzaatreh.github.io/reading-notes/Read05#expressions)
+7.3| [Loops](https://nashatalzaatreh.github.io/reading-notes/Read05#loops)
+8.0| [Design web pages with CSS](https://nashatalzaatreh.github.io/reading-notes/Read06)
+
+
 
 
 
