@@ -23,7 +23,7 @@ Number | Title
 7.2| [Expressions](https://nashatalzaatreh.github.io/reading-notes/Read05#expressions)
 7.3| [Loops](https://nashatalzaatreh.github.io/reading-notes/Read05#loops)
 8.0| [Design web pages with CSS](https://nashatalzaatreh.github.io/reading-notes/Read06)
-9.0 | [Functions] (https://nashatalzaatreh.github.io/reading-notes/Read07)
+9.0 | [Functions](https://nashatalzaatreh.github.io/reading-notes/Read07)
 
 
 
