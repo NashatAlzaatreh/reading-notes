@@ -1,5 +1,7 @@
 # Table Of Contents 
 
+## Code 101 and 102 Reading notes 
+
 
 Number | Title 
 ------------ | -------------
@@ -26,6 +28,23 @@ Number | Title
 9.0 | [Functions](https://nashatalzaatreh.github.io/reading-notes/Read07)
 
 
+## Code 201 Reading Notes
+
+Number | Title 
+------- | -------
+1.0    | [HTML & CSS](https://nashatalzaatreh.github.io/reading-notes-201/class-01)
+1.1    | [Introduction](https://nashatalzaatreh.github.io/reading-notes-201/class-01#introduction)
+1.2    | [Structure](https://nashatalzaatreh.github.io/reading-notes-201/class-01#structure)
+1.3    | [Extra Markup](https://nashatalzaatreh.github.io/reading-notes-201/class-01#extra-markup)
+1.4    | [HTML5 Layout](https://nashatalzaatreh.github.io/reading-notes-201/class-01#html5-layout)
+1.5    | [Process & Design](https://nashatalzaatreh.github.io/reading-notes-201/class-01#process---design)
+1.6    | [Text](https://nashatalzaatreh.github.io/reading-notes-201/class-02#text)
+1.7    | [Introducing CSS](https://nashatalzaatreh.github.io/reading-notes-201/class-02#introducing-css)
+2.0    | [JAVASCRIPT](https://nashatalzaatreh.github.io/reading-notes-201/class-01#%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6)
+2.1   | [Introduction](https://nashatalzaatreh.github.io/reading-notes-201/class-01#introduction-1)
+2.2    | [The ABC of Programming](https://nashatalzaatreh.github.io/reading-notes-201/class-01#the-abc-of-programming)
+2.3    | [Basic JavaScript Instructions](https://nashatalzaatreh.github.io/reading-notes-201/class-02#basic-javascript-instructions)
+2.4    | [Decisions and Loops](https://nashatalzaatreh.github.io/reading-notes-201/class-02#decisions-and-loops)
 
 
 
@@ -35,7 +54,8 @@ Number | Title
 
 
 
-# Introduction
+
+## Introduction
 
 ### This is a practice project of ASAC scolarship, The project should useing Markdown language, learn Git,  Github, and applying in replit.
 
