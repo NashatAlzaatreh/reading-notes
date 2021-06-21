@@ -43,3 +43,17 @@
 
 
 
+## *** Basic JavaScript Instructions**
+### ARRAYS
+#### An array is a special type of variable. It doesn't just store one value; it stores a list of values.
+#### You should consider using an array whenever you are working with a list or a set of values that are related to each other.
+
+### CREATING AN ARRAY
+#### You create an array and give it a name just like you would any other variable (using the var keyword followed by the name of the array).
+
+### VALUES IN ARRAYS
+#### Values in an array are accessed as if they are in a numbered list. It is important to know that the numbering of this list starts at zero (not one).
+
+## ***Decisions and Loops**
+### SWITCH STATEMENTS
+#### A switch statement starts with a variable called the switch value. Each case indicates a possible value for this variable and the code that should run if the variable matches that value.
