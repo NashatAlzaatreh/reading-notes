@@ -32,19 +32,9 @@ Number | Title
 
 Number | Title 
 ------- | -------
-1.0    | [HTML & CSS](https://nashatalzaatreh.github.io/reading-notes-201/class-01)
-1.1    | [Introduction](https://nashatalzaatreh.github.io/reading-notes-201/class-01#introduction)
-1.2    | [Structure](https://nashatalzaatreh.github.io/reading-notes-201/class-01#structure)
-1.3    | [Extra Markup](https://nashatalzaatreh.github.io/reading-notes-201/class-01#extra-markup)
-1.4    | [HTML5 Layout](https://nashatalzaatreh.github.io/reading-notes-201/class-01#html5-layout)
-1.5    | [Process & Design](https://nashatalzaatreh.github.io/reading-notes-201/class-01#process---design)
-1.6    | [Text](https://nashatalzaatreh.github.io/reading-notes-201/class-02#text)
-1.7    | [Introducing CSS](https://nashatalzaatreh.github.io/reading-notes-201/class-02#introducing-css)
-2.0    | [JAVASCRIPT](https://nashatalzaatreh.github.io/reading-notes-201/class-01#%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6)
-2.1   | [Introduction](https://nashatalzaatreh.github.io/reading-notes-201/class-01#introduction-1)
-2.2    | [The ABC of Programming](https://nashatalzaatreh.github.io/reading-notes-201/class-01#the-abc-of-programming)
-2.3    | [Basic JavaScript Instructions](https://nashatalzaatreh.github.io/reading-notes-201/class-02#basic-javascript-instructions)
-2.4    | [Decisions and Loops](https://nashatalzaatreh.github.io/reading-notes-201/class-02#decisions-and-loops)
+class-01   | [Read: 01 - Introductory HTML and JavaScript](code201/class-01.md)
+class-02    | [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](code201/class-02.md)
+class-03   | [Read: 03 - HTML Lists, CSS Boxes, JS Control Flow](code201/class-03.md)
 
 
 
