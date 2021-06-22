@@ -82,10 +82,10 @@ function name(parameter1, parameter2, parameter3) {
 #### Expressions produce a value. They can be used where values are expected. If a function is placed where a browser expects to see an expression, (e.g., as an argument to a function), then it gets treated as an expression.
 
 ## ***6 Reasons for Pair Programming**
-#### More “two heads are better than one” than “stop reading over my shoulder,” pair programming is the practice of two developers sharing a single workstation to interactively tackle a coding task together. At Code Fellows, pair programing is one way we foster a collaborative environment while developing key industry skills.
-1. #### Greater efficiency
-2. #### Engaged collaboration
-3. #### Learning from fellow students
-4. #### Social skills
-5. #### Job interview readiness
-6. #### Work environment readiness
+#### More “two heads are better than one” than “stop reading over my shoulder,” pair programming is the practice of two developers sharing a single workstation to interactively tackle a coding task together. At Code Fellows, pair programing is one way we foster a collaborative environment while developing key industry skill.
+1. #### Greater efficiency.
+2. #### Engaged collaboration.
+3. #### Learning from fellow students.
+4. #### Social skills.
+5. #### Job interview readiness.
+6. #### Work environment readiness.

@@ -42,6 +42,10 @@
 ![Border, Margin & Padding pic](https://miro.medium.com/max/462/1*_Q0vGWv0CTxyZhF8hl5AfA.png)
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 2fea43777c8d8a78bed0de401c8ef3e1a1a020dc
 ## *** Basic JavaScript Instructions**
 ### ARRAYS
 #### An array is a special type of variable. It doesn't just store one value; it stores a list of values.
@@ -55,4 +59,8 @@
 
 ## ***Decisions and Loops**
 ### SWITCH STATEMENTS
+<<<<<<< HEAD
 #### switch statement starts with a variable called the switch value. Each case indicates a possible value for this variable and the code that should run if the variable matches that value.
+=======
+#### A switch statement starts with a variable called the switch value. Each case indicates a possible value for this variable and the code that should run if the variable matches that value.
+>>>>>>> 2fea43777c8d8a78bed0de401c8ef3e1a1a020dc
