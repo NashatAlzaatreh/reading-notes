@@ -36,7 +36,7 @@ class-01   | [Read: 01 - Introductory HTML and JavaScript](code201/class-01.md)
 class-02    | [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](code201/class-02.md)
 class-03   | [Read: 03 - HTML Lists, CSS Boxes, JS Control Flow](code201/class-03.md)
 class-04   | [Read: 04 - HTML Links, CSS Layout, JS Functions](code201/class-04.md)
-
+class-05   | [Read: 05 - HTML Images; CSS Color & Text](code201/class-05.md)
 
 
 
