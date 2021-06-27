@@ -38,6 +38,7 @@ class-03   | [Read: 03 - HTML Lists, CSS Boxes, JS Control Flow](code201/class-0
 class-04   | [Read: 04 - HTML Links, CSS Layout, JS Functions](code201/class-04.md)
 class-05   | [Read: 05 - HTML Images; CSS Color & Text](code201/class-05.md)
 class-06   | [Read: 06 - JS Object Literals; The DOM](code201/class-06.md)
+class-07   | [Read: 08 - More CSS Layout](code201/class-07.md)
 
 
 
