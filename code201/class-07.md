@@ -1,55 +1,101 @@
 # HTML & CSS & JAVASCRIPT
 ## Design and Build Websites
 
-### Building Blocks
-#### CSS treats each HTML element as if it is in its own box. This box will either be a block-level box or an inline box.
-#### Block-level elements: start on a new line Examples include:
-`<h1> <p> <ul> <li>`
-#### Inline elements: flow in between surrounding text Examples include: `<img> <b> <i>`
+### Domain Modeling
+#### Domain modeling is the process of creating a conceptual model in code for a specific problem. A model describes the various entities, their attributes and behaviors, as well as the constraints that govern the problem domain. An entity that stores data in properties and encapsulates behaviors in methods is commonly referred to as an object-oriented model.
 
-### Containing Elements
-#### If one block-level element sits inside another block-level element then the outer box is known as the containing or parent element.
+#### A domain model that's articulated well can verify and validate the understanding of a specific problem among various stakeholders. As a communication tool, it defines a vocabulary that can be used within and between both technical and business teams.
 
-### Controll ing the Position of Elements
-#### CSS has the following positioning schemes that allow  you to control the layout of a page: normal flow, relative positioning, and absolute positioning. You specify the positioning scheme using the position property in CSS. You can also float elements using the `float` property.
+### Define a constructor and initialize properties
 
-- #### Normal flow
-- #### Relative Positioning
-- #### Absolute positioning
-#### To indicate where a box should be positioned, you may also need to use box offset properties to tell the browser how far from the top or bottom and left or right it should be placed.
-- #### Fixed Positioning
-- #### Floating Elements
+#### To define the same properties between many objects, you'll want to use a constructor function. Below is a table that summarizes a JavaScript representation of an `EpicFailVideo` object.
 
-### Overlapping El ements
-#### When you use relative, fixed, or absolute positioning, boxes can overlap. If boxes do overlap, the elements that appear later in the HTML code sit on top of those that are earlier in the page.
-#### If you want to control which element sits on top, you can use the z-index property. Its value is a number, and the higher the number the closer that element is to the front. For example, an element with a z-index of 10 will appear over the top of one with a z-index of 5.
+| Property     | Data              | Type    |
+|--------------|-------------------|---------|
+| `epicRating` | `1` to `10`       | Number  |
+| `hasAnimals` | `true` or `false` | Boolean |
 
-### Clearing Floats
-#### The clear property allows you to say that no element (within the same containing element) should touch the left or right hand sides of a box. It can take the following values:
+#### Here's an implementation of the `EpicFailVideo` constructor function.
 
-- #### `left` The left-hand side of the box should not touch any other elements appearing in the same containing element.
-- #### `right` The right-hand side of the box will not touch elements appearing in the same containing element.
-- #### `both` Neither the left nor right-hand sides of the box will touch elements appearing in the same containing element.
-- #### `none` Elements can touch either side.
-### Creating Multi-Column Layouts with Floats
+```javascript
+var EpicFailVideo = function(epicRating, hasAnimals) {
+  this.epicRating = epicRating;
+  this.hasAnimals = hasAnimals;
+}
 
-#### Many web pages use multiple columns in their design. This is achieved by using a `<div>`element to represent each column. The following three CSS properties are used to position the columns next to each other:
+var parkourFail = new EpicFailVideo(7, false);
+var corgiFail = new EpicFailVideo(4, true);
+
+console.log(parkourFail);
+console.log(corgiFail);
+```
 
 
-- #### width: This sets the width of the columns.
-- #### float: This positions the columns next to each other.
-- #### margin: This creates a gap between the columns. 
 
-### Screen Resolution
-#### Resolution refers to the number of dots a screen shows per inch. Some devices have a higher resolution than desktop computers and most operating systems allow users to adjust the resolution of their screens.
+### Generate random numbers
 
-### Page Sizes
-#### Because screen sizes and display resolutions vary so much, web designers often try to create pages of around 960-1000 pixels wide (since most users will be able to see designs this wide on their screens).
+#### To model the random nature of user behavior, you'll need the help of a random number generator. Fortunately, the JavaScript standard library includes a `Math.random()` function for just this sort of occasion.
 
-### Fixed Width Layouts
-#### Fixed width layout designs do not change size as the user increases or decreases the size of their browser window. Measurements tend to be given in pixels.
+```javascript
+var EpicFailVideo = function(epicRating, hasAnimals) {
+  this.epicRating = epicRating;
+  this.hasAnimals = hasAnimals;
+}
 
-### Liquid Layouts
-#### Liquid layout designs stretch and contract as the user increases or decreases the size of their browser window. They tend to use percentages.
+EpicFailVideo.prototype.generateRandom = function(min, max) {
+  return Math.floor(Math.random() * (max - min + 1)) + min;
+}
 
+var parkourFail = new EpicFailVideo(7, false);
+var corgiFail = new EpicFailVideo(4, true);
+
+console.log(parkourFail.generateRandom(1, 5));
+console.log(corgiFail.generateRandom(1, 5));
+```
+
+
+
+### Calculate daily Likes
+
+#### Popularity of a video is measured in Likes. And the formula for calculating Likes is the number of viewers times the percentage of viewers who'll Like a video. In other words, **viewers times percentage**.
+
+#### To calculate the number of viewers per day, generate a random number between 10 and 30 and then multiply it by the epic rating of that video.
+
+| Random number | Epic rating | Viewers per day |
+|---------------|-------------|-----------------|
+| 10            | 10          | 100             |
+| 20            | 9           | 180             |
+| 30            | 8           | 240             |
+
+#### The percentage of viewers who'll Like a video depends on whether or not the video contains animals.
+
+| Animals | Percentage |
+|---------|------------|
+| Yes     | 75%        |
+| No      | 40%        |
+
+
+
+### Summary
+
+#### Domain modeling is the process of creating a conceptual model for a specific problem. And a domain model that's articulated well can verify and validate your understanding of that problem.
+
+#### Here's some tips to follow when building your own domain models.
+
+1. When modeling a single entity that'll have many instances, build self-contained objects with the same attributes and behaviors.
+1. Model its attributes with a constructor function that defines and initializes properties.
+1. Model its behaviors with small methods that focus on doing one job well.
+1. Create instances using the `new` keyword followed by a call to a constructor function.
+1. Store the newly created object in a variable so you can access its properties and methods from **outside**.
+1. Use the `this` variable within methods so you can access the object's properties and methods from **inside**.
+
+
+## ***Tables**
+### What's a Table?
+#### A table represents information in a grid format. Examples of tables include financial reports, TV schedules, and sports results.
+
+### Basic Table St ructure
+- #### The `<table>` element is used to create a table. The contents of the table are written out row by row.
+- #### You indicate the start of each row using the opening `<tr>` tag. (The tr stands for table row.) It is followed by one or more `<td>` elements (one for each cell in that row). At the end of the row you use a closing `</tr> ` tag.
+- #### Each cell of a table is represented using a `<td>` element. (The td stands for table data.) At the end of each cell you use a closing `</td>` tag.
 
