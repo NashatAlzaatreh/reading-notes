@@ -39,6 +39,7 @@ class-04   | [Read: 04 - HTML Links, CSS Layout, JS Functions](code201/class-04.
 class-05   | [Read: 05 - HTML Images; CSS Color & Text](code201/class-05.md)
 class-06   | [Read: 06 - JS Object Literals; The DOM](code201/class-06.md)
 class-07   | [Read: 07 - HTML Tables; JS Constructor Functions](code201/class-07.md)
+class-08   | [Read: 08 - More CSS Layout](code201/class-08.md)
 
 
 
