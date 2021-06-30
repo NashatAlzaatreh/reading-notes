@@ -41,6 +41,7 @@ class-06   | [Read: 06 - JS Object Literals; The DOM](code201/class-06.md)
 class-07   | [Read: 07 - HTML Tables; JS Constructor Functions](code201/class-07.md)
 class-08   | [Read: 08 - More CSS Layout](code201/class-08.md)
 class-09   | [Read: 09 - Forms and Events](code201/class-09.md)
+class-10   | [Read: 10 - JS Debugging](code201/class-10.md)
 
 
 
