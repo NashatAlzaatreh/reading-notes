@@ -42,8 +42,7 @@ class-07   | [Read: 07 - HTML Tables; JS Constructor Functions](code201/class-07
 class-08   | [Read: 08 - More CSS Layout](code201/class-08.md)
 class-09   | [Read: 09 - Forms and Events](code201/class-09.md)
 class-10   | [Read: 10 - JS Debugging](code201/class-10.md)
-
-
+class-11   | [Read: 11 - Assorted Topics](code201/class-11.md)
 
 
 
