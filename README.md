@@ -44,6 +44,7 @@ class-09   | [Read: 09 - Forms and Events](code201/class-09.md)
 class-10   | [Read: 10 - JS Debugging](code201/class-10.md)
 class-11   | [Read: 11 - Assorted Topics](code201/class-11.md)
 class-12   | [Read: 12 - Docs for the HTML `<canvas>`Element & Chart.js](code201/class-12.md)
+class-13   | [Read: 13 - Local Storage](code201/class-13.md)
 
 
 
