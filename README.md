@@ -50,7 +50,7 @@
 
 | Number   | Title            |
 | -------- | ---------------- |
-| class-01 | [Read: 01 - ](#) |
+| class-01 | [Read: 01 - Introduction to React and Components](code301/class-01.md)  |
 
 ## Introduction
 
