@@ -51,6 +51,7 @@
 | Number   | Title            |
 | -------- | ---------------- |
 | class-01 | [Read: 01 - Introduction to React and Components](code301/class-01.md)  |
+| class-02 | [Read: 02 - State and Props](code301/class-02.md)  |
 
 ## Introduction
 
