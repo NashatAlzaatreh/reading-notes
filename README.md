@@ -48,11 +48,12 @@
 
 ## Code 301 - Intermediate Software Development
 
-| Number   | Title            |
-| -------- | ---------------- |
-| class-01 | [Read: 01 - Introduction to React and Components](code301/class-01.md)  |
-| class-02 | [Read: 02 - State and Props](code301/class-02.md)  |
-| class-03 | [Read: 03 - Passing Functions as Props](code301/class-03.md)  |
+| Number   | Title                                                                  |
+| -------- | ---------------------------------------------------------------------- |
+| class-01 | [Read: 01 - Introduction to React and Components](code301/class-01.md) |
+| class-02 | [Read: 02 - State and Props](code301/class-02.md)                      |
+| class-03 | [Read: 03 - Passing Functions as Props](code301/class-03.md)           |
+| class-04 | [Read: 04 - React and Forms](code301/class-04.md)                      |
 
 ## Introduction
 
