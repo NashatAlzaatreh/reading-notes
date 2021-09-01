@@ -54,6 +54,7 @@
 | class-02 | [Read: 02 - State and Props](code301/class-02.md)                      |
 | class-03 | [Read: 03 - Passing Functions as Props](code301/class-03.md)           |
 | class-04 | [Read: 04 - React and Forms](code301/class-04.md)                      |
+| class-05 | [Read: 05 - Putting it all together](code301/class-05.md)              |
 
 ## Introduction
 
