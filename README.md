@@ -56,6 +56,7 @@
 | class-04 | [Read: 04 - React and Forms](code301/class-04.md)                      |
 | class-05 | [Read: 05 - Putting it all together](code301/class-05.md)              |
 | class-06 | [Read: 06 - NODE.JS](code301/class-06.md)                              |
+| class-07 | [Read: 07 - REST](code301/class-07.md)                                 |
 
 ## Introduction
 
