@@ -57,6 +57,7 @@
 | class-05 | [Read: 05 - Putting it all together](code301/class-05.md)              |
 | class-06 | [Read: 06 - NODE.JS](code301/class-06.md)                              |
 | class-07 | [Read: 07 - REST](code301/class-07.md)                                 |
+| class-08 | [Read: 08 - REST](code301/class-08.md)                                 |
 
 ## Introduction
 
