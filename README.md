@@ -59,6 +59,7 @@
 | class-07 | [Read: 07 - REST](code301/class-07.md)                                 |
 | class-08 | [Read: 08 - APIs](code301/class-08.md)                                 |
 | class-09 | [Read: 09 - FUNCTIONAL PROGRAMMING](code301/class-09.md)               |
+| class-10 | [Read: 10 - In memory storage](code301/class-10.md)                    |
 
 ## Introduction
 
