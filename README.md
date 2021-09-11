@@ -60,6 +60,7 @@
 | class-08 | [Read: 08 - APIs](code301/class-08.md)                                 |
 | class-09 | [Read: 09 - FUNCTIONAL PROGRAMMING](code301/class-09.md)               |
 | class-10 | [Read: 10 - In memory storage](code301/class-10.md)                    |
+| class-11 | [Read: 11 - Mongo and Mongoose](code301/class-11.md)                   |
 
 ## Introduction
 
