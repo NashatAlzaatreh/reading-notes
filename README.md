@@ -61,6 +61,7 @@
 | class-09 | [Read: 09 - FUNCTIONAL PROGRAMMING](code301/class-09.md)               |
 | class-10 | [Read: 10 - In memory storage](code301/class-10.md)                    |
 | class-11 | [Read: 11 - Mongo and Mongoose](code301/class-11.md)                   |
+| class-12 | [Read: 12 - CRUD](code301/class-12.md)                                 |
 
 ## Introduction
 
