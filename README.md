@@ -48,20 +48,21 @@
 
 ## Code 301 - Intermediate Software Development
 
-| Number   | Title                                                                  |
-| -------- | ---------------------------------------------------------------------- |
-| class-01 | [Read: 01 - Introduction to React and Components](code301/class-01.md) |
-| class-02 | [Read: 02 - State and Props](code301/class-02.md)                      |
-| class-03 | [Read: 03 - Passing Functions as Props](code301/class-03.md)           |
-| class-04 | [Read: 04 - React and Forms](code301/class-04.md)                      |
-| class-05 | [Read: 05 - Putting it all together](code301/class-05.md)              |
-| class-06 | [Read: 06 - NODE.JS](code301/class-06.md)                              |
-| class-07 | [Read: 07 - REST](code301/class-07.md)                                 |
-| class-08 | [Read: 08 - APIs](code301/class-08.md)                                 |
-| class-09 | [Read: 09 - FUNCTIONAL PROGRAMMING](code301/class-09.md)               |
-| class-10 | [Read: 10 - In memory storage](code301/class-10.md)                    |
-| class-11 | [Read: 11 - Mongo and Mongoose](code301/class-11.md)                   |
-| class-12 | [Read: 12 - CRUD](code301/class-12.md)                                 |
+| Number   | Title                                                                        |
+| -------- | ---------------------------------------------------------------------------- |
+| class-01 | [Read: 01 - Introduction to React and Components](code301/class-01.md)       |
+| class-02 | [Read: 02 - State and Props](code301/class-02.md)                            |
+| class-03 | [Read: 03 - Passing Functions as Props](code301/class-03.md)                 |
+| class-04 | [Read: 04 - React and Forms](code301/class-04.md)                            |
+| class-05 | [Read: 05 - Putting it all together](code301/class-05.md)                    |
+| class-06 | [Read: 06 - NODE.JS](code301/class-06.md)                                    |
+| class-07 | [Read: 07 - REST](code301/class-07.md)                                       |
+| class-08 | [Read: 08 - APIs](code301/class-08.md)                                       |
+| class-09 | [Read: 09 - FUNCTIONAL PROGRAMMING](code301/class-09.md)                     |
+| class-10 | [Read: 10 - In memory storage](code301/class-10.md)                          |
+| class-11 | [Read: 11 - Mongo and Mongoose](code301/class-11.md)                         |
+| class-12 | [Read: 12 - CRUD](code301/class-12.md)                                       |
+| class-13 | [Read: 13 - Diversity & Inclusion in the Tech Industry](code301/class-13.md) |
 
 ## Introduction
 
