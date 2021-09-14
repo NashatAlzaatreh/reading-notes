@@ -63,6 +63,7 @@
 | class-11 | [Read: 11 - Mongo and Mongoose](code301/class-11.md)                         |
 | class-12 | [Read: 12 - CRUD](code301/class-12.md)                                       |
 | class-13 | [Read: 13 - Diversity & Inclusion in the Tech Industry](code301/class-13.md) |
+| class-14 | [Read: 14 - Authentication](code301/class-14.md) |
 
 ## Introduction
 
