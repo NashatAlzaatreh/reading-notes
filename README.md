@@ -1,4 +1,8 @@
-# Table Of Contents
+# Reading Notes
+
+### Reading notes is a pref about the daily topics we will learn in this course.
+
+## Table Of Contents
 
 ## Code 102 - Intro to Software Development
 
@@ -63,8 +67,14 @@
 | class-11 | [Read: 11 - Mongo and Mongoose](code301/class-11.md)                         |
 | class-12 | [Read: 12 - CRUD](code301/class-12.md)                                       |
 | class-13 | [Read: 13 - Diversity & Inclusion in the Tech Industry](code301/class-13.md) |
-| class-14 | [Read: 14 - Authentication](code301/class-14.md) |
+| class-14 | [Read: 14 - Authentication](code301/class-14.md)                             |
+
+## Code 401 - Advanced Software Development
+
+| Number   | Title                            |
+| -------- | -------------------------------- |
+| class-01 | [Read: 01 ](code401/class-01.md) |
 
 ## Introduction
 
-### Hello, I’m **_Nashat Alzaatreh_**, and I graduated from the University of Jordan as a civil engineer. After graduation I had training as a site engineer, and then I worked as Customer support agent for two years, and I didn’t feel there was an opportunity to grow or advance further in that company so I decided a change would best for me. I believe this course will help me to achieve my goals and I will be accomplished coder and I enjoy using my skills to contribute to the exciting technological advances that happen every day.
+### Hello, I’m **_Nashat Alzaatreh_**, and I graduated from the University of Jordan as a civil engineer. I believe this course will help me to achieve my goals and I will be accomplished coder and I enjoy using my skills to contribute to the exciting technological advances that happen every day.
