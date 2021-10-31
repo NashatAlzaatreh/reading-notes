@@ -75,6 +75,7 @@
 | -------- | ------------------------------------------------------------- |
 | class-00 | [Read: 00 - Pre-Work ](code401/class-00.md)                   |
 | class-01 | [Read: 01 - Node Ecosystem, TDD, CI/CD ](code401/class-01.md) |
+| class-02 | [Read: 02 - Express ](code401/class-02.md)                    |
 
 ## Introduction
 
