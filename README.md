@@ -76,7 +76,8 @@
 | class-00 | [Read: 00 - Pre-Work ](code401/class-00.md)                   |
 | class-01 | [Read: 01 - Node Ecosystem, TDD, CI/CD ](code401/class-01.md) |
 | class-02 | [Read: 02 - Express ](code401/class-02.md)                    |
+| class-03 | [Read: 03 - Express REST API ](code401/class-03.md)           |
 
 ## Introduction
 
-### Hello, I’m **_Nashat Alzaatreh_**, and I graduated from the University of Jordan as a civil engineer. I believe this course will help me to achieve my goals and I will be accomplished coder and I enjoy using my skills to contribute to the exciting technological advances that happen every day.
+### Hello, I’m **_Nashat Alzaatreh_**, and I graduated from the University of Jordan as a civil engineer. I believe this course will help me to achieve my goals and I will be an accomplished coder and I enjoy using my skills to contribute to the exciting technological advances that happen every day.
