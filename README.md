@@ -77,6 +77,7 @@
 | class-01 | [Read: 01 - Node Ecosystem, TDD, CI/CD ](code401/class-01.md) |
 | class-02 | [Read: 02 - Express ](code401/class-02.md)                    |
 | class-03 | [Read: 03 - Express REST API ](code401/class-03.md)           |
+| class-04 | [Read: 04 - Data Modeling ](code401/class-04.md)              |
 
 ## Introduction
 
