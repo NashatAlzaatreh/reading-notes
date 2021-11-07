@@ -80,6 +80,7 @@
 | class-04 | [Read: 04 - Data Modeling ](code401/class-04.md)              |
 | class-05 | [Read: 05 - Linked Lists ](code401/class-05.md)               |
 | class-06 | [Read: 06 - Authentication ](code401/class-06.md)             |
+| class-07 | [Read: 07 - Bearer Authorization ](code401/class-07.md)       |
 
 ## Introduction
 
