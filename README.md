@@ -81,6 +81,7 @@
 | class-05 | [Read: 05 - Linked Lists ](code401/class-05.md)               |
 | class-06 | [Read: 06 - Authentication ](code401/class-06.md)             |
 | class-07 | [Read: 07 - Bearer Authorization ](code401/class-07.md)       |
+| class-08 | [Read: 08 - Access Control (ACL) ](code401/class-08.md)       |
 
 ## Introduction
 
