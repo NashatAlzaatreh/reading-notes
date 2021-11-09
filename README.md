@@ -71,17 +71,18 @@
 
 ## Code 401 - Advanced Software Development
 
-| Number   | Title                                                         |
-| -------- | ------------------------------------------------------------- |
-| class-00 | [Read: 00 - Pre-Work ](code401/class-00.md)                   |
-| class-01 | [Read: 01 - Node Ecosystem, TDD, CI/CD ](code401/class-01.md) |
-| class-02 | [Read: 02 - Express ](code401/class-02.md)                    |
-| class-03 | [Read: 03 - Express REST API ](code401/class-03.md)           |
-| class-04 | [Read: 04 - Data Modeling ](code401/class-04.md)              |
-| class-05 | [Read: 05 - Linked Lists ](code401/class-05.md)               |
-| class-06 | [Read: 06 - Authentication ](code401/class-06.md)             |
-| class-07 | [Read: 07 - Bearer Authorization ](code401/class-07.md)       |
-| class-08 | [Read: 08 - Access Control (ACL) ](code401/class-08.md)       |
+| Number   | Title                                                           |
+| -------- | --------------------------------------------------------------- |
+| class-00 | [Read: 00 - Pre-Work ](code401/class-00.md)                     |
+| class-01 | [Read: 01 - Node Ecosystem, TDD, CI/CD ](code401/class-01.md)   |
+| class-02 | [Read: 02 - Express ](code401/class-02.md)                      |
+| class-03 | [Read: 03 - Express REST API ](code401/class-03.md)             |
+| class-04 | [Read: 04 - Data Modeling ](code401/class-04.md)                |
+| class-05 | [Read: 05 - Linked Lists ](code401/class-05.md)                 |
+| class-06 | [Read: 06 - Authentication ](code401/class-06.md)               |
+| class-07 | [Read: 07 - Bearer Authorization ](code401/class-07.md)         |
+| class-08 | [Read: 08 - Access Control (ACL) ](code401/class-08.md)         |
+| class-09 | [Read: 09 - Authorization/Authentication ](code401/class-09.md) |
 
 ## Introduction
 
