@@ -71,7 +71,7 @@
 
 ## Code 401 - Advanced Software Development
 
-| Number   | Title                                                           |
+| Class #  | Title                                                           |
 | -------- | --------------------------------------------------------------- |
 | class-00 | [Read: 00 - Pre-Work ](code401/class-00.md)                     |
 | class-01 | [Read: 01 - Node Ecosystem, TDD, CI/CD ](code401/class-01.md)   |
@@ -86,6 +86,7 @@
 | class-10 | [Read: 10 - Stacks and Queues ](code401/class-10.md)            |
 | class-11 | [Read: 11 - Event Driven Applications ](code401/class-11.md)    |
 | class-12 | [Read: 12 - Socket.io ](code401/class-12.md)                    |
+| class-13 | [Read: 12 - Message Queues ](code401/class-13.md)               |
 
 ## Introduction
 
