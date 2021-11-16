@@ -86,7 +86,9 @@
 | class-10 | [Read: 10 - Stacks and Queues ](code401/class-10.md)            |
 | class-11 | [Read: 11 - Event Driven Applications ](code401/class-11.md)    |
 | class-12 | [Read: 12 - Socket.io ](code401/class-12.md)                    |
-| class-13 | [Read: 12 - Message Queues ](code401/class-13.md)               |
+| class-13 | [Read: 13 - Message Queues ](code401/class-13.md)               |
+| class-14 | [Read: 14 - Event Driven Architecture ](code401/class-14.md)    |
+| class-14 | [Read: 15 - Trees ](code401/class-15.md)                        |
 
 ## Introduction
 
