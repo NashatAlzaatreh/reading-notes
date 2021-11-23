@@ -91,6 +91,8 @@
 | class-15 | [Read: 15 - Trees ](code401/class-15.md)                        |
 | class-16 | [Read: 16 - AWS: Cloud Servers ](code401/class-16.md)           |
 | class-17 | [Read: 17 - AWS: S3 and Lambda ](code401/class-17.md)           |
+| class-18 | [Read: 18 - AWS: API, Dynamo and Lambda ](code401/class-18.md)  |
+| class-19 | [Read: 19 - AWS: Events ](code401/class-19.md)                       |
 
 ## Introduction
 
