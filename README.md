@@ -94,6 +94,7 @@
 | class-18 | [Read: 18 - AWS: API, Dynamo and Lambda ](code401/class-18.md)  |
 | class-19 | [Read: 19 - AWS: Events ](code401/class-19.md)                  |
 | class-26 | [Read: 20 - Component Based UI ](code401/class-26.md)           |
+| class-27 | [Read: 21 - useState() Hook ](code401/class-27.md)              |
 
 ## Introduction
 
