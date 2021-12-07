@@ -95,6 +95,8 @@
 | class-19 | [Read: 19 - AWS: Events ](code401/class-19.md)                  |
 | class-26 | [Read: 20 - Component Based UI ](code401/class-26.md)           |
 | class-27 | [Read: 21 - useState() Hook ](code401/class-27.md)              |
+| class-28 | [Read: 22 - Component Lifecycle ](code401/class-28.md)          |
+| class-29 | [Read: 23 - Advanced State with Reducers ](code401/class-29.md) |
 
 ## Introduction
 
