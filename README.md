@@ -98,6 +98,7 @@
 | class-28 | [Read: 22 - Component Lifecycle ](code401/class-28.md)          |
 | class-29 | [Read: 23 - Advanced State with Reducers ](code401/class-29.md) |
 | class-30 | [Read: 24 - Implementation: Hash Tables ](code401/class-30.md)  |
+| class-31 | [Read: 25 - Context API ](code401/class-31.md)                  |
 
 ## Introduction
 
