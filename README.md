@@ -99,6 +99,8 @@
 | class-29 | [Read: 23 - Advanced State with Reducers ](code401/class-29.md) |
 | class-30 | [Read: 24 - Implementation: Hash Tables ](code401/class-30.md)  |
 | class-31 | [Read: 25 - Context API ](code401/class-31.md)                  |
+| class-32 | [Read: 26 - Context API - Behaviors ](code401/class-32.md)      |
+| class-33 | [Read: 27 - <Login /> and <Auth /> ](code401/class-33.md)       |
 
 ## Introduction
 
