@@ -101,6 +101,8 @@
 | class-31 | [Read: 25 - Context API ](code401/class-31.md)                  |
 | class-32 | [Read: 26 - Context API - Behaviors ](code401/class-32.md)      |
 | class-33 | [Read: 27 - Login and Auth ](code401/class-33.md)               |
+| class-34 | [Read: 28 - API Integration ](code401/class-34.md)              |
+| class-35 | [Read: 29 - Graphs ](code401/class-35.md)                       |
 
 ## Introduction
 
