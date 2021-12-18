@@ -103,6 +103,7 @@
 | class-33 | [Read: 27 - Login and Auth ](code401/class-33.md)               |
 | class-34 | [Read: 28 - API Integration ](code401/class-34.md)              |
 | class-35 | [Read: 29 - Graphs ](code401/class-35.md)                       |
+| class-36 | [Read: 30 - Application State with Redux ](code401/class-36.md) |
 
 ## Introduction
 
