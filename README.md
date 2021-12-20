@@ -104,6 +104,8 @@
 | class-34 | [Read: 28 - API Integration ](code401/class-34.md)              |
 | class-35 | [Read: 29 - Graphs ](code401/class-35.md)                       |
 | class-36 | [Read: 30 - Application State with Redux ](code401/class-36.md) |
+| class-37 | [Read: 31 - Redux - Combined Reducers ](code401/class-37.md)    |
+| class-38 | [Read: 32 - Redux - Asynchronous Actions ](code401/class-38.md) |
 
 ## Introduction
 
