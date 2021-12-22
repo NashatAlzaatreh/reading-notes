@@ -106,6 +106,7 @@
 | class-36 | [Read: 30 - Application State with Redux ](code401/class-36.md) |
 | class-37 | [Read: 31 - Redux - Combined Reducers ](code401/class-37.md)    |
 | class-38 | [Read: 32 - Redux - Asynchronous Actions ](code401/class-38.md) |
+| class-39 | [Read: 33 - Redux - Additional Topics ](code401/class-39.md)    |
 
 ## Introduction
 
