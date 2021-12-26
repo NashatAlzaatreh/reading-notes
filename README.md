@@ -107,6 +107,8 @@
 | class-37 | [Read: 31 - Redux - Combined Reducers ](code401/class-37.md)    |
 | class-38 | [Read: 32 - Redux - Asynchronous Actions ](code401/class-38.md) |
 | class-39 | [Read: 33 - Redux - Additional Topics ](code401/class-39.md)    |
+| class-41 | [Read: 34 - React Native ](code401/class-41.md)                 |
+| class-42 | [Read: 35 - Ethics in Tech ](code401/class-42.md)               |
 
 ## Introduction
 
